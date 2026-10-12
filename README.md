@@ -20,8 +20,11 @@ I build backend systems and machine-learning tools in Java and Python, and I'm l
 ## Tech I use
 
 **Languages:** Python, Java, TypeScript, JavaScript, SQL
+
 **ML and data:** PyTorch, pandas, NumPy
+
 **Backend and web:** Spring Boot, FastAPI, React
+
 **Data and tooling:** PostgreSQL, Docker, Git, JUnit, Testcontainers, pytest
 
 

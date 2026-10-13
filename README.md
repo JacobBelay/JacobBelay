@@ -8,8 +8,8 @@ I build backend systems and machine-learning tools in Java and Python, and I'm l
 
 ## What I'm building
 
-- **[Royalty Split Ledger](https://github.com/YOUR-USERNAME/royalty-split-ledger)**: a Spring Boot REST API that splits music royalties and records every cent in an append-only double-entry ledger in PostgreSQL. Built to stay correct under retries and concurrent requests (idempotent imports, row-level locking against duplicate payouts).
-- **[Streaming Analytics Dashboard](https://github.com/YOUR-USERNAME/streaming-analytics-dashboard)**: a full-stack app (React, TypeScript, FastAPI, PostgreSQL) that tracks an artist across Spotify, Apple Music and YouTube, forecasts "what if" release scenarios with a PyTorch model, and uses an LLM to write trend reports.
+- **[Royalty Split Ledger](https://github.com/JacobBelay/Royalty-Split-Ledger)**: a Spring Boot REST API that splits music royalties and records every cent in an append-only double-entry ledger in PostgreSQL. Built to stay correct under retries and concurrent requests (idempotent imports, row-level locking against duplicate payouts).
+- **[Streaming Analytics Dashboard](https://github.com/JacobBelay/Streaming-Analytics-Dashboard)**: a full-stack app (React, TypeScript, FastAPI, PostgreSQL) that tracks an artist across Spotify, Apple Music and YouTube, forecasts "what if" release scenarios with a PyTorch model, and uses an LLM to write trend reports.
 
 ## Currently working on
 

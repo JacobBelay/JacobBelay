@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Jacob Belay
+# Hi, I'm Jacob Belay 👋
 
 Computer Science student at **York University** (graduating December 2027), based in Toronto. 
 

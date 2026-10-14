@@ -2,7 +2,7 @@
 
 Computer Science student at **York University** (graduating December 2027), based in Toronto. 
 
-I build backend systems and machine-learning tools in Java and Python, and I'm looking for **software engineering, data science and ML/AI internships**.
+I build full-stack applications and machine-learning tools in Java and Python, and I'm looking for **software engineering, data science and ML/AI internships**.
 
 ## What I'm building
 
